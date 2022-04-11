@@ -1,0 +1,20 @@
+
+@font-face{
+  font-family: 'Lora';
+  src: url('./lora/Lora-Italic.ttf');
+}
+
+@font-face{
+  font-family: 'Lora Regular';
+  src: url('./lora/Lora-Regular.ttf');
+}
+
+@font-face {
+  font-family: 'Varela Round';
+  src: url('./varela-round/VarelaRound-Regular.otf');
+}
+
+@font-face {
+  font-family: 'Josefin Sans';
+  src: url('./josefin-sans/JosefinSans-Light.ttf');
+}
